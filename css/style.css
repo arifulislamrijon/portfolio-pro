@@ -1,0 +1,10 @@
+body{
+    line-height: 1.6;
+}
+
+.hero section{
+    background: url(/asets/bg-dev-pic.png)no-repeat center center-cover;
+    
+    height: 100vh;
+
+}
